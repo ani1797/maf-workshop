@@ -16,7 +16,7 @@ All examples use Insurance and Banking use cases to keep things relatable.
 | 07 | Workflows Intro | Executors, edges, pipelines (loan processing) |
 | 08 | Multi-Agent Orchestration | Sequential & concurrent patterns (claims, quotes) |
 | 09 | MCP with Agent Framework | Wrap MCP calls as tools for grounded responses |
-| 10 | Hosting Microsoft Agent on API |
+| 10 | Hosting Microsoft Agent on API | Learn about deploying a model to a FastAPI for quick inferences (Non Foundry Deployments) |
 
 ## Setup
 
